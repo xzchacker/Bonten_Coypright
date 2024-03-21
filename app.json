@@ -1,7 +1,6 @@
 {
   "name": "telegram-bot-app",
   "description": "Telegram Bot using Pyrogram",
-  "repository": "https://github.com/Gojosatoru78/Bonten_Coypright",
   "env": {
     "API_ID": {
       "description": "Your Telegram API ID",
